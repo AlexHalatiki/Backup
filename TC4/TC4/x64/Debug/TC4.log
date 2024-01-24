@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\halat\source\repos\TC4\TC4\main.cpp(40,30): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\halat\source\repos\TC4\TC4\main.cpp(40,35): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\halat\source\repos\TC4\TC4\main.cpp(40,40): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  TC4.vcxproj -> C:\Users\halat\source\repos\TC4\x64\Debug\TC4.exe
+          1 arquivo(s) copiado(s).
+          1 arquivo(s) copiado(s).
